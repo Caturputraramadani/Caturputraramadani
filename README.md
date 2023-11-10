@@ -6,7 +6,7 @@
 <h1 align="center">Catur Putra Ramadani</h1>
 <h3 align="center">A Passionate Full Stack Developer from Smk Wikrama Bogor</h3>
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caturputraramadani&label=Profile%20views&color=0e75b6&style=flat" alt="caturputraramadani" /> </p>
 
 - 📫 How to reach me **caturputraramadani@gmail.com**

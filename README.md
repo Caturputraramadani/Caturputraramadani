@@ -2,9 +2,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://rishavchanda.io)
 
 
-<h1 align="center">Hello✨, I'm Software Engineering Student</h1> 
-<h1 align="center">Catur Putra Ramadani</h1>
-<h3 align="center">A Passionate Back-End Developer</h3>
+<h1 align="center">Hello✨, I'm Catur</h1> 
+<h2 align="center">A Passionate Back-End Developer</h2>
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caturputraramadani&label=Profile%20views&color=0e75b6&style=flat" alt="caturputraramadani" /> </p>

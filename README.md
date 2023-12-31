@@ -29,7 +29,7 @@
 <br>
 <!-- <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=caturputraramadani&" alt="caturputraramadani"/></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=caturputraramadani&show_icons=true&locale=en" alt="caturputraramadani"/></p>  -->
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=caturputraramadani&show_icons=true&locale=en&layout=compact" alt="caturputraramadani" /></p>
+<p><img text-aligin="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caturputraramadani&show_icons=true&locale=en&layout=compact" alt="caturputraramadani" /></p>
 
 
 

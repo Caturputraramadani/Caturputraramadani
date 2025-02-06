@@ -3,12 +3,12 @@
 
 
 <h1 align="center">Hello✨, I'm Catur</h1> 
-<h2 align="center">A Passionate Back-End Developer</h2>
+<h2 align="center">A Passionate Front-End Developer</h2>
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caturputraramadani&label=Profile%20views&color=0e75b6&style=flat" alt="caturputraramadani" /> </p>
 
-- 🌱 I’m currently learning **JavaScript | Node.JS | Express.JS | React JS**
+- 🌱 I’m currently learning **JavaScript | Next.JS | React JS**
 
 - 👨‍💻 All of my projects are available at [https://catur-portfolio.netlify.app/](https://catur-portfolio.netlify.app/)
 
